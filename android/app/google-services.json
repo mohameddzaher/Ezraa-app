@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1036370494358",
+    "project_id": "ezraa-4af61",
+    "storage_bucket": "ezraa-4af61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036370494358:android:de5c0083af16ad7880d3b7",
+        "android_client_info": {
+          "package_name": "com.example.ezraa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036370494358-51gedeji15h4okr6tq8pqedhrio6ue4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ezraa",
+            "certificate_hash": "03260ba10a169e055973b359fa193a18bf4639cc"
+          }
+        },
+        {
+          "client_id": "1036370494358-op6qlfagca5sl3eredc4cle8iefddeuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE0yiIhqoXyoMb8WyVIdsuasZKjN9-cmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036370494358-op6qlfagca5sl3eredc4cle8iefddeuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
