@@ -72,7 +72,7 @@ class Home extends StatelessWidget {
                     ],
                   ),
                 ),
-                // . ----- test
+                // . ----- first news 
                 SizedBox(
                   height: 20,
                 ),
